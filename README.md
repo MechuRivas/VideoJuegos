@@ -20,7 +20,9 @@
         <p><a href="https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)">Final Fantasy 1</a><br>
         <a href="https://www.bing.com/ck/a?!&&p=7f318a60956ae55c04bad031965a3c9ac23d3ec3613ce0207b3980693ee9706cJmltdHM9MTc3MjU4MjQwMA&ptn=3&ver=2&hsh=4&fclid=3518e2b7-c4bb-6812-34b6-f5bec5196940&psq=hollow+knight&u=a1aHR0cHM6Ly9lcy53aWtpcGVkaWEub3JnL3dpa2kvSG9sbG93X0tuaWdodA">Hollow Knight</a><br>
         <a href="https://www.bing.com/ck/a?!&&p=f6b5676cec745d9322830fdcfd732a9f17d76cdc335f0bd66eee4e2bad710371JmltdHM9MTc3MjU4MjQwMA&ptn=3&ver=2&hsh=4&fclid=3518e2b7-c4bb-6812-34b6-f5bec5196940&psq=castlevania&u=a1aHR0cHM6Ly9lcy53aWtpcGVkaWEub3JnL3dpa2kvQ2FzdGxldmFuaWE">Castlevania</a><br>
-          <a href="https://www.bing.com/ck/a?!&&p=b866eb558edfa46f515ddf5fe6ef173520f9babe9b5f9a5f8038a1e829969d95JmltdHM9MTc3MjU4MjQwMA&ptn=3&ver=2&hsh=4&fclid=3518e2b7-c4bb-6812-34b6-f5bec5196940&psq=blasphemous&u=a1aHR0cHM6Ly9lcy53aWtpcGVkaWEub3JnL3dpa2kvQmxhc3BoZW1vdXM">Blasphemous</a><br></p>
+          <a href="https://www.bing.com/ck/a?!&&p=b866eb558edfa46f515ddf5fe6ef173520f9babe9b5f9a5f8038a1e829969d95JmltdHM9MTc3MjU4MjQwMA&ptn=3&ver=2&hsh=4&fclid=3518e2b7-c4bb-6812-34b6-f5bec5196940&psq=blasphemous&u=a1aHR0cHM6Ly9lcy53aWtpcGVkaWEub3JnL3dpa2kvQmxhc3BoZW1vdXM">Blasphemous</a><br><br>
+          <img src="https://th.bing.com/th/id/OIP.TK5MXuOYnMqTjkAHIy0FzgHaEK?w=281&h=180&c=7&r=0&o=7&pid=1.7&rm=3" alt="Expectativa Videojuego"><br><br>
+        Cona la colaboracion del desarrollador de videojuegos y escritor<br>"Francisco Castillo Perez".</p>
        
   </body>
 </html>
