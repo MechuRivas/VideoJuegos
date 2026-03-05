@@ -2,8 +2,12 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="UTF-8">
     <title>Repositorio de Proyectos</title>
-  </head>
+
+    <link rel="stylesheet" href="styles.css">
+
+</head>
       <body>
         <h1>Intro</h1>
         <p> 
