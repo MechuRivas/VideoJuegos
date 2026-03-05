@@ -18,8 +18,8 @@
         <br>
         <h3>Inspirados en:</h3>
         <p><a href="https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)">Final Fantasy 1</a><br>
-        <a href="https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)](https://es.wikipedia.org/wiki/Hollow_Knight)">Hollow Knight</a><br>
-        <a href="https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)](https://es.wikipedia.org/wiki/Castlevania)">Castlevania</a><br></p>
+        <a href="https://www.bing.com/ck/a?!&&p=7f318a60956ae55c04bad031965a3c9ac23d3ec3613ce0207b3980693ee9706cJmltdHM9MTc3MjU4MjQwMA&ptn=3&ver=2&hsh=4&fclid=3518e2b7-c4bb-6812-34b6-f5bec5196940&psq=hollow+knight&u=a1aHR0cHM6Ly9lcy53aWtpcGVkaWEub3JnL3dpa2kvSG9sbG93X0tuaWdodA">Hollow Knight</a><br>
+        <a href="[https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)](https://es.wikipedia.org/wiki/Castlevania)](https://www.bing.com/ck/a?!&&p=f6b5676cec745d9322830fdcfd732a9f17d76cdc335f0bd66eee4e2bad710371JmltdHM9MTc3MjU4MjQwMA&ptn=3&ver=2&hsh=4&fclid=3518e2b7-c4bb-6812-34b6-f5bec5196940&psq=castlevania&u=a1aHR0cHM6Ly9lcy53aWtpcGVkaWEub3JnL3dpa2kvQ2FzdGxldmFuaWE)">Castlevania</a><br></p>
        
   </body>
 </html>
