@@ -18,8 +18,8 @@
         <br>
         <h3>Inspirados en:</h3>
         <p><a href="https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)">Final Fantasy 1</a><br>
-        <a href="[https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)](https://es.wikipedia.org/wiki/Hollow_Knight)">Hollow Knight</a><br>
-        <a href="[https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)](https://es.wikipedia.org/wiki/Castlevania)">Castlevania</a><br></p>
+        <a href="https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)](https://es.wikipedia.org/wiki/Hollow_Knight)">Hollow Knight</a><br>
+        <a href="https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)](https://es.wikipedia.org/wiki/Castlevania)">Castlevania</a><br></p>
        
   </body>
 </html>
