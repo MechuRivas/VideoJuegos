@@ -35,7 +35,9 @@
       <p>Teniendo en cuenta el estudio, se publicaran los lanzamientos, y dicha <br>informacion de estas, por sus redes sociales.<br>
       El juego tendra sus inicios en PC, mas concretamente por STEAM, participando en la seccion de indies, fantasia, rol, etc.<br>
       Tambien, estara en listas de patrocinio de STEAM, en el cual puede ganar, popularidad y quien sabe...Un premio.<br>
-        Mas tarde se lanzara a consolas, compatible con la PS4 si aun sigue en soporte... y compatible con la PS5, aunque si tienes Nintendo Switch tendras que esperar un poco mas para su lanzamiento, ya que nos gustaria distribuirla muy bien por el mercado.</p>
+        Mas tarde se lanzara a consolas, compatible con la PS4 si aun sigue en soporte... y compatible con la PS5, aunque si tienes Nintendo Switch tendras que esperar un poco mas para su lanzamiento, ya que nos gustaria distribuirla muy bien por el mercado.
+      <br>
+      Promocionando el juego de manera mas visual, hemos optado por pedirles a influencers conocidos por lo menos en España, la promocion de nuestro juego de manera sincera, dandoles a ellos a probar el juego y segun su critica aceptamos su promocion o no.</p>
       
        
   </body>
