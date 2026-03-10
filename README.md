@@ -38,8 +38,11 @@
       Tambien, estara en listas de patrocinio de STEAM, en el cual puede ganar, popularidad y quien sabe...Un premio.<br>
         Mas tarde se lanzara a consolas, compatible con la PS4 si aun sigue en soporte... y compatible con la PS5, aunque si tienes Nintendo Switch tendras que esperar un poco mas para su lanzamiento, ya que nos gustaria distribuirla muy bien por el mercado.
       <br>
-      Promocionando el juego de manera mas visual, hemos optado por pedirles a influencers conocidos por lo menos en España, la promocion de nuestro juego de manera sincera, dandoles a ellos a probar el juego y segun su critica aceptamos su promocion o no.</p>
-      
+      Promocionando el juego de manera mas visual, hemos optado por pedirles a influencers conocidos por lo menos en España, la promocion de nuestro juego de manera sincera, dandoles a ellos a probar el juego y segun su critica aceptamos su promocion o no.</p><br>
+              <h2>Equipo de trabajo</h2>
+      <p>Se necesita un desarrollador, un diseñador y un director de equipo para que el proyecto pueda cumplirse en un plazo que se estima de unos 2-3 años completos.</p>
+      <h2>Financiación</h2>
+      <p>Se preve que el proyeto haga una publicación en <a href="https://www.kickstarter.com/">KickStarter</a> y se estima, que se necesita recaudar unos 30.000€ aproximadamente.</p> 
        
   </body>
 </html>
