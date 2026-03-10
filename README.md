@@ -1,4 +1,3 @@
-# VideoJuegos
 <!DOCTYPE html>
 <html>
   <head>
