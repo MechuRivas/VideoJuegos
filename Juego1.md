@@ -1,4 +1,14 @@
+#Videojuegos
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Repositorio de Proyectos</title>
+    <link rel="stylesheet" href="styles.css">
+    
 
+</head>
+      <body>
 
 
 Por decidir...
@@ -37,3 +47,5 @@ Se necesita un desarrollador, un diseñador y un director de equipo para que el 
 
 Financiación
 Se preve que el proyeto haga una publicación en KickStarter y se estima, que se necesita recaudar unos 30.000€ aproximadamente.
+</body>
+</html>
