@@ -2,8 +2,7 @@ body {
     background-color: #F2C2D3;
 }
 ::-webkit-scrollbar {
-    width: 12px;
-    
+    width: 12px;  
 }
 ::-webkit-scrollbar-track {
     background: #BBF0E3;
