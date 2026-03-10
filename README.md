@@ -16,6 +16,6 @@
         <br>
         <h2>Caja De Arena</h2>
         <p>Este será el repositorio donde publicaré mis proyectos.</p>
-      <a href="Juego1.md"Juego numero 1> </a>
+      <a href="Juego1.md">Juego numero 1</a>
   </body>
 </html>
