@@ -1,22 +1,17 @@
 body {
     background-color: F2C2D3;
 }
-/* ancho de la barra */
 ::-webkit-scrollbar {
     width: 12px;
     
 }
-/* fondo de la barra */
 ::-webkit-scrollbar-track {
     background: #BBF0E3;
 }
-/* parte que se mueve */
 ::-webkit-scrollbar-thumb {
     background: #BFBBF0;
     border-radius: 4px;
 }
-
-/* cuando pasas el ratón */
 ::-webkit-scrollbar-thumb:hover {
     background: #D9BBF0;
 }
