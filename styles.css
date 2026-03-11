@@ -1,14 +1,14 @@
 body {
-    background-color: #F2C2D3;
+    background-color: #95D7F0;
 }
 ::-webkit-scrollbar {
     width: 12px;  
 }
 ::-webkit-scrollbar-track {
-    background: #BBF0E3;
+    background: #273835;
 }
 ::-webkit-scrollbar-thumb {
-    background: #BFBBF0;
+    background: #408274;
     border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
