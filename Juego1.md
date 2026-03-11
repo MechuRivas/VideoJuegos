@@ -21,7 +21,7 @@
           <img class="imagen1" src="https://th.bing.com/th/id/OIP.TK5MXuOYnMqTjkAHIy0FzgHaEK?w=281&h=180&c=7&r=0&o=7&pid=1.7&rm=3" alt="Expectativa Videojuego"><br><br>
         Cona la colaboracion del desarrollador de videojuegos y escritor<br>"Francisco Castillo Perez".
           <br><br>
-        <a href="https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)" target="_blank">Prototipo</a><br><br>
+        <a href="https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)" target="_blank"> Prototipo </a><br><br>
         Este prototipo se prevee que tendra una duracion maxima de unos 10 minutos, solo para pobrar el testeo de la misma.<br>
         El juego todavia esta en desarrollo, por lo cual, aun no existe una beta ni se a filtrado ninguna fecha de lanzamiento.<br>
         </p> 
