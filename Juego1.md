@@ -36,5 +36,8 @@
       <p>Se necesita un desarrollador, un diseñador y un director de equipo para que el proyecto pueda cumplirse en un plazo que se estima de unos 2-3 años completos.</p>
       <h2>Financiación</h2>
       <p>Se preve que el proyeto haga una publicación en <a href="https://www.kickstarter.com/" target="_blank">KickStarter</a> y se estima, que se necesita recaudar unos 30.000€ aproximadamente.</p> 
+      <a href="https://github.com" target="_blank">
+    Ir a GitHub
+</a>
   </body>
 </html>
