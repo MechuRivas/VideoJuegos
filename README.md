@@ -20,19 +20,15 @@
         <br>
         <br>
         <br>
-        <form>
+        <form class="formulario">
           <label>Nombres:</label>
             <input type:"text" name="nombre" required>
-          <br>
           <label>Apellidos:</label>
             <input type:"text" name="lastname" required>
-          <br>
           <label>Email:</label>
             <input type:"email" name="email" required>
-          <br>
           <label>Descripción:</label>
             <textarea name:"Descripcion" required></textarea>
-          <br>
             <button type"submit">Enviar:</button>
         </form>
   </body>
