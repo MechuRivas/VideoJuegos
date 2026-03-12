@@ -17,5 +17,23 @@
         <h2>Caja De Arena</h2>
         <p>Este será el repositorio donde publicaré mis proyectos.</p>
       <a href="Juego1.html" target="_blank">Juego numero 1</a>
+        <br>
+        <br>
+        <br>
+        <form>
+          <label>Nombres:</label>
+          <input type:"text" name="nombre" required>
+          <br>
+          <label>Apellidos:</label>
+            <input type:"text" name="lastname" required>
+          <br>
+          <label>Email:</label>
+            <input type:"email" name="email" required>
+          <br>
+          <label>Descripción:</label>
+          <textarea name:"Descripcion" required></textarea>
+          <br>
+          <button type"submit">Enviar:</button>
+        </form>
   </body>
 </html>
