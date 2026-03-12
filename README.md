@@ -20,6 +20,7 @@
         <br>
         <br>
         <br>
+        <h2>Contacto</h2>
         <form class="formulario">
           <label>Nombres:</label>
             <input type:"text" name="nombre" required>
