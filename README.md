@@ -22,7 +22,7 @@
         <br>
         <form>
           <label>Nombres:</label>
-          <input type:"text" name="nombre" required>
+            <input type:"text" name="nombre" required>
           <br>
           <label>Apellidos:</label>
             <input type:"text" name="lastname" required>
@@ -31,9 +31,9 @@
             <input type:"email" name="email" required>
           <br>
           <label>Descripción:</label>
-          <textarea name:"Descripcion" required></textarea>
+            <textarea name:"Descripcion" required></textarea>
           <br>
-          <button type"submit">Enviar:</button>
+            <button type"submit">Enviar:</button>
         </form>
   </body>
 </html>
